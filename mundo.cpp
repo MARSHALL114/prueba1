@@ -8,5 +8,6 @@ int main()
   cout<<"hola"<<endl;
   cout<<"mundo"<<endl;
   cout<<"hola"<<endl;
+  cout<<"HOLA"<<endl;
   return 0;
 }
